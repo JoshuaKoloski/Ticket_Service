@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tickets.TestReserveSeats" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-08-25T03:50:05" hostname="koloski" time="0.001">
+  <properties/>
+  <testcase name="testNoReservation" classname="tickets.TestReserveSeats" time="0.001"/>
+  <testcase name="testReservation" classname="tickets.TestReserveSeats" time="0.0"/>
+  <system-out><![CDATA[Customer: jordanj@gmail.com
+Level(s): 1
+Row(s): 1A
+Seat(s): 1A1, 1A2, 1A3
+60148bdc-8e11-423d-b676-b34b0ea76bb3]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
